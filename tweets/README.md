@@ -1,6 +1,5 @@
 # TweetsProject-NurhenAyeb-2MRIAAD
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SouideneOns/TweetsProject-SouideneOns-3DNI2/main)
 
 
 # I-Objectifs:
